@@ -1,0 +1,101 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.first-section{
+    background-color: #F0FFF0;
+}
+.buy-now{
+    background-color: #21B573;
+    border: none;
+    border-radius: 33px;
+    padding: 12px 28px 12px 28px;
+    cursor: pointer;
+    color: white;
+}
+.nav-item{
+    margin: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.banner{
+    width: 554px;
+    height: 346px;
+    margin-left: 100px;
+}
+.font-color{
+    color: gray;
+}
+.d-flex{
+    text-align: center;
+}
+.parts{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.before::before{
+    display: inline-block;
+    content: "";
+    height: 20px;
+    width: 20px;
+    background: url("ICON/calender1.png") no-repeat;
+    background-size: contain;
+    float: left;
+    margin-right: 5px;
+}
+.before1::before{
+    display: inline-block;
+    content: "";
+    height: 20px;
+    width: 20px;
+    background: url("ICON/pepole1.png") no-repeat;
+    background-size: contain;
+    float: left;
+    margin-right: 5px;
+}
+.font{
+    text-align: center;
+    margin-bottom: 50px;
+    color: black;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px gray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.before{
+    padding-right: 170px;
+}
+.pad{
+    padding-right: 200px;
+    text-align: justify;
+}
+.img{
+    padding-left: 346px;
+}
+.fifth-section{
+    height: 369px;
+    background-color: black;
+    color: white;
+}
+ul{
+    list-style-type: none;
+    text-align: justify;
+}
+.down{
+    margin-top: 60px;
+}
+.margin{
+    margin-right: 20px;
+}
+.fot{
+    text-align: center;
+    margin-bottom: 5px;
+}
